@@ -27,6 +27,7 @@
          nav{
               padding-top:5px;
               padding-bottom:5px;
+                     padding-left:10px;
               overflow:hidden;
               background-color:burlywood;
          }
@@ -38,7 +39,7 @@
                  margin-right:5px;
                  padding:5px;
                  line-height:38px;
-                 float:left;
+                 .sweets{float:left;}
                  border:solid 1px brown;
                  background-color:bisque;
             }
